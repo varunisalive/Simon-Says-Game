@@ -1,4 +1,7 @@
 # Simon-Says-Game
+
+Play here : https://varunisalive.github.io/Simon-Says-Game/
+
   # Description
   The objective of the game is to mimic Simon's moves. Each time you correctly match his flashes, the level goes up. If you click out of order, you have to start over at level 1.
   
